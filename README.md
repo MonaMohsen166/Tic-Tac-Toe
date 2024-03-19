@@ -20,7 +20,8 @@ winner is player one (i.e. if checks are equal O) or player two (i.e. if checks 
 X).
 6. After a player wins, the program will ask to continue a new game or exit.
 
-Example:
+<h1>Example:</h1>
+
 <img width="800" alt="X O game" src="https://github.com/MonaMohsen166/Tic-Tac-Toe/assets/73717585/cc227831-3a31-4213-80c2-db33cf8bdbfe">
 
 
