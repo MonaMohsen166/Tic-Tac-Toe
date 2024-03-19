@@ -2,6 +2,7 @@
 
 <h1>Implementation Details:</h1>
 1. For the board create 9 variables, each one holds ‘-’ as a default character value.
+</b1>
 2. Assume player one movement will change – into O, while player two will change into
 X.
 3. Each time the program asks the player one then player two, to enter the next move
