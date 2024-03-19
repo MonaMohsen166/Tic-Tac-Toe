@@ -1,6 +1,6 @@
-This code is an implementation of the Tic Tac Toe multiplayer game, known as X O game.
+<h2>This code is an implementation of the Tic Tac Toe multiplayer game, known as X O game.</h2>
 
-Implementation Details:
+<h1>Implementation Details:</h1>
 1. For the board create 9 variables, each one holds ‘-’ as a default character value.
 2. Assume player one movement will change – into O, while player two will change into
 X.
