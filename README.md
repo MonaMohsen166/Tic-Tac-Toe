@@ -1,4 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/MonaMohsen166/Tic-Tac-Toe/assets/73717585/566c9f67-dc0a-48ea-9284-c44e6f26a26a">This code is an implementation of the Tic Tac Toe multiplayer game, known as X O game.
+This code is an implementation of the Tic Tac Toe multiplayer game, known as X O game.
 
 Implementation Details:
 1. For the board create 9 variables, each one holds ‘-’ as a default character value.
@@ -21,6 +21,6 @@ X).
 6. After a player wins, the program will ask to continue a new game or exit.
 
 Example:
-<img width="800" alt="X-O-Game" src="https://github.com/MonaMohsen166/Tic-Tac-Toe/assets/73717585/cc227831-3a31-4213-80c2-db33cf8bdbfe">
+<img width="800" alt="X O game" src="https://github.com/MonaMohsen166/Tic-Tac-Toe/assets/73717585/cc227831-3a31-4213-80c2-db33cf8bdbfe">
 
 
